@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techsag01
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me techsag.23@gmail.com
 - 😄 Pronouns: ...
